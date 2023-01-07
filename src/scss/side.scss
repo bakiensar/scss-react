@@ -33,9 +33,16 @@
       @include flex(space-between, center, none);
       position: absolute;
       bottom: 20px;
-      left: 50px;
+      left: 50;
       top: 0;
     }
+    // &_social {
+    //   @include flex(space-between, center, none);
+    //   position: absolute;
+    //   bottom: 20px;
+    //   left: 50px;
+    //   top: 0;
+    // }
   }
   &_bottom {
     padding: 20px;
